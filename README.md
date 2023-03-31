@@ -45,8 +45,8 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7010228786956808193/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7010228786956808193%29"><img src="shopping-mall.png" /></a> <a></a></td>
-  <!--  <td><a href="https://github.com/gbengafagbola/gbengafagbola/"><img src="read-me.png" /></a> <a></a></td> -->
+    <td><a href="https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-15.md"><img src="aws_cloud.png"/></a> <a></a></td>
+  <!--  <td><a href="https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-20.md"><img src="docker.png" /></a> <a></a></td> -->
         <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:6861733348750966784/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6861733348750966784%29"><img src="news-agency.png" /></a>  <a></a></td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 ## 🤝 Let's connect
 
-<p align="center">
+<p>
   <a href="https://twitter.com/obusorezekiel"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://hashnode.com/@deluxediscussion"><img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/obusor-ezekiel-umesi-a66b55121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
@@ -127,13 +127,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 
 <br />
-<br />
-<br />
 
-
-
-
-<br />
 
 -----
 <div>  
