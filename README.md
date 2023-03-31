@@ -41,6 +41,19 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 ![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7010228786956808193/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7010228786956808193%29"><img src="shopping-mall.png" /></a> <a></a></td>
+  <!--  <td><a href="https://github.com/gbengafagbola/gbengafagbola/"><img src="read-me.png" /></a> <a></a></td> -->
+        <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:6861733348750966784/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6861733348750966784%29"><img src="news-agency.png" /></a>  <a></a></td>
+  </tr>
+</table>
+
+
+<br>
+
 ## 🤝 Let's connect
 
 <p align="center">
@@ -59,3 +72,78 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 ![GitHub metrics](https://metrics.lecoq.io/obusorezekiel)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obusorezekiel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+
+
+## Active Technologies 👨🏽‍💻
+
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> 
+
+<br />
+<br />
+
+<div>
+
+### Timeline 🚶🏾
+<br />
+
+| Year               | Technology Progression                                    |     Job Progression                  |
+| ------------------ | --------------------------------------------------------- |--------------------------------------|
+| 2023.              | Mastery of active stack                                   |  `DevOps Engineer     | 
+| 2022               | <img align="left" alt="AWS" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" /> <img align="left" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="Prometheus" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /> <img align="left" alt="Next" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> |    `DevOps Engineer`   |
+| 2021               |  <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="K8" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> <img align="left" alt="GCP" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/helm.svg" /> <img align="left" alt="Flutter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticcloud.svg" />  <img align="left" alt="Terraform" width="20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> <img align="left" alt="Terraform" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />  <img align="left" alt="GraphQl" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  | `DevOps Technical Support`  |
+| 2020               | <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Linux" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img align="left" alt="Travis" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /> <img align="left" alt="Redis" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /> <img align="left" alt="NGINX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> <img  align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> |   `Software Engineer (Backend/DevOps)`                                   |
+| 2019               |  <img align="left" alt="NodeJS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="Express" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img align="left" alt="Azure" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />   <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img align="left" alt="Firebase" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  <img align="left" alt="Webpack" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />   <img align="left" alt="Wordpress" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> |    `Software Engineer (Backend)`                                     |
+| 17/18               | <img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  <img align="left" alt="CSS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  <img align="left" alt="Angular" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <img align="left" alt="TypeScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Ionic" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /> <img alt="Ionic" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />                                                          |   `Software Engineer`                    |
+
+</div>
+
+
+<br />
+<br />
+<br />
+
+
+<div>
+
+## Recent Blog Posts
+
+<table><tr><td valign="top" width="50%">
+
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a> My Hashnode Articles   
+ 
+<!-- HASHNODE-BLOG-LIST:START -->
+- [Build &amp; Deploy Next.js &amp; FastAPI  Application with AWS Amplify.](https://gbengafagbola.hashnode.dev/build-deploy-nextjs-fastapi-application-with-aws-amplify)
+- [Customizing &amp; Automating GitHub Readme](https://gbengafagbola.hashnode.dev/customizing-automating-github-readme)
+- [Introduction to Aws AppSync](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
+- [Designing a Cloud Infrastructure.](https://gbengafagbola.hashnode.dev/designing-a-cloud-infrastructure)
+<!-- HASHNODE-BLOG-LIST:END -->
+ 
+</td><td valign="top" width="50%">
+
+## <a href="https://dev.to/clouded_knight"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/devto.png?raw=true" title="DEV" alt="DEV" width="25"/></a>     My Recent DEV.to Articles 
+ <!-- DEVTO-BLOG-LIST:START -->
+- [Multiple Pointers](https://dev.to/clouded_knight/multiple-pointers-592h)
+- [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
+- [Problem solving Patterns](https://dev.to/clouded_knight/problem-solving-patterns-2iib)
+- [Algorithm &amp; Data Structure](https://dev.to/clouded_knight/algorithm-data-structure-59e0)
+- [React-Redux at it&#39;s Simplest!](https://dev.to/clouded_knight/react-redux-at-its-simplest-2kep)
+<!-- DEVTO-BLOG-LIST:END -->
+
+</td></tr></table>
+</div>
+
+<br />
+
+-----
+<div>  
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> 
+      <h6>Ezekiel Umesi <a href="https://www.linkedin.com/in/obusor-ezekiel-umesi-a66b55121/">(c) 2023 </a></h6>    
+</div>
+</div>
+
