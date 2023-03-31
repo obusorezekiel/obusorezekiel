@@ -54,6 +54,28 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 <br>
 
+
+<div>
+
+## Recent Blog Posts
+
+<table><tr><td>
+  
+<!-- HASHNODE-BLOG-LIST:START -->
+- [Building a complete pipeline with GitLab CI: A Guide to Continuous Integration and Deployment.](https://medium.com/@ezekiel.umesi/building-a-complete-pipeline-with-gitlab-ci-a-guide-to-continuous-integration-and-deployment-47b678afbc3e)
+- [Improving Developer Efficiency with the 12-Factor App Methodology: Best Practices for Modern Application Development & Deployment](https://medium.com/@ezekiel.umesi/improving-developer-efficiency-with-the-12-factor-app-methodology-best-practices-for-modern-f85f3d2dc58d)
+- [Deploy a WordPress Application on a Kubernetes Cluster using Ingress, Cert-Manager, and Helm.](https://medium.com/@ezekiel.umesi/deploy-a-wordpress-application-on-a-kubernetes-cluster-using-ingress-cert-manager-and-helm-1f3b34356197)
+- [Complete CI/CD of a Java Application using Jenkins, Nexus, Sonarqube, AWS ECR & ECS](https://medium.com/@ezekiel.umesi/complete-ci-cd-of-a-java-application-using-jenkins-nexus-sonarqube-aws-ecr-ecs-2bf965b6397b)
+ - [Deploy an EC2 instance inside a Custom VPC using Terraform](https://medium.com/@ezekiel.umesi/deploy-an-ec2-instance-inside-a-custom-vpc-using-terraform-71beab988797)
+ - [What are Microservices?](https://deluxediscussions.hashnode.dev/what-are-microservices)
+  - [Understanding AWS Compute Fundamentals: AWS Elastic Compute Cloud (EC2)](https://www.ezekiel-umesi.xyz/understanding-aws-compute-fundamentals-aws-elastic-compute-cloud-ec2)
+<!-- HASHNODE-BLOG-LIST:END -->
+ 
+</td></tr></table>
+</div>
+
+<br/>
+
 ## 🤝 Let's connect
 
 <p align="center">
@@ -94,7 +116,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 | Year               | Technology Progression                                    |     Job Progression                  |
 | ------------------ | --------------------------------------------------------- |--------------------------------------|
-| 2023.              | Mastery of active stack                                   |  `DevOps Engineer     | 
+| 2023.              | Mastery of active stack                                   |  `DevOps Engineer`     | 
 | 2022               | <img align="left" alt="AWS" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" /> <img align="left" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="Prometheus" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /> <img align="left" alt="Next" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> |    `DevOps Engineer`   |
 | 2021               |  <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="K8" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> <img align="left" alt="GCP" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/helm.svg" /> <img align="left" alt="Flutter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticcloud.svg" />  <img align="left" alt="Terraform" width="20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> <img align="left" alt="Terraform" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />  <img align="left" alt="GraphQl" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  | `DevOps Technical Support`  |
 | 2020               | <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Linux" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img align="left" alt="Travis" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /> <img align="left" alt="Redis" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" /> <img align="left" alt="NGINX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> <img  align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> |   `Software Engineer (Backend/DevOps)`                                   |
@@ -109,34 +131,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 <br />
 
 
-<div>
 
-## Recent Blog Posts
-
-<table><tr><td valign="top" width="50%">
-
-## <a href="https://dev.to/clouded_knight"><img align="left" alt="Dev.To Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a> My Hashnode Articles   
- 
-<!-- HASHNODE-BLOG-LIST:START -->
-- [Build &amp; Deploy Next.js &amp; FastAPI  Application with AWS Amplify.](https://gbengafagbola.hashnode.dev/build-deploy-nextjs-fastapi-application-with-aws-amplify)
-- [Customizing &amp; Automating GitHub Readme](https://gbengafagbola.hashnode.dev/customizing-automating-github-readme)
-- [Introduction to Aws AppSync](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
-- [Designing a Cloud Infrastructure.](https://gbengafagbola.hashnode.dev/designing-a-cloud-infrastructure)
-<!-- HASHNODE-BLOG-LIST:END -->
- 
-</td><td valign="top" width="50%">
-
-## <a href="https://dev.to/clouded_knight"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/devto.png?raw=true" title="DEV" alt="DEV" width="25"/></a>     My Recent DEV.to Articles 
- <!-- DEVTO-BLOG-LIST:START -->
-- [Multiple Pointers](https://dev.to/clouded_knight/multiple-pointers-592h)
-- [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
-- [Problem solving Patterns](https://dev.to/clouded_knight/problem-solving-patterns-2iib)
-- [Algorithm &amp; Data Structure](https://dev.to/clouded_knight/algorithm-data-structure-59e0)
-- [React-Redux at it&#39;s Simplest!](https://dev.to/clouded_knight/react-redux-at-its-simplest-2kep)
-<!-- DEVTO-BLOG-LIST:END -->
-
-</td></tr></table>
-</div>
 
 <br />
 
