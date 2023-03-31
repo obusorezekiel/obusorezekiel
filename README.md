@@ -46,7 +46,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 <p align="center">
   <a href="https://twitter.com/obusorezekiel"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://hashnode.com/@deluxediscussion"><img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/micah-shallom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+  <a href="https://www.linkedin.com/in/obusor-ezekiel-umesi-a66b55121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="mailto:ezekiel.umesi@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
