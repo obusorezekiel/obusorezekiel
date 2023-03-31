@@ -43,13 +43,19 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-15.md"><img src="aws_cloud.png"/></a> <a></a></td>
-  <!--  <td><a href="https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-20.md"><img src="docker.png" /></a> <a></a></td> -->
-        <td><a href="https://www.linkedin.com/feed/update/urn:li:activity:6861733348750966784/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6861733348750966784%29"><img src="news-agency.png" /></a>  <a></a></td>
-  </tr>
-</table>
+<table><tr><td>
+
+## <a href="https://github.com/obusorezekiel?tab=repositories" tab="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="left" alt="Project Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a>    My Portfolio Projects  
+ 
+
+- [DEPLOYING_APPLICATIONS_INTO_KUBERNETES_CLUSTER](https://gbengafagbola.hashnode.dev/build-deploy-nextjs-fastapi-application-with-aws-amplify)
+- [AWS_CLOUD_SOLUTION_FOR_2_COMPANY_WEBSITES_USING_A_REVERSE_PROXY_TECHNOLOGY](https://gbengafagbola.hashnode.dev/customizing-automating-github-readme)
+- [BUILDING_ELASTIC_KUBERNETES_SERVICE_(EKS)_WITH_TERRAFORM](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
+- [Website_Solution_With_Wordpress](https://gbengafagbola.hashnode.dev/designing-a-cloud-infrastructure)
+ - [MIGRATION_TO_THE_СLOUD_WITH_CONTAINERIZATION–DOCKER_&_DOCKER_COMPOSE]()
+ - [DEPLOYING AN APPLICATION WITH PERSISTENCE_IN_K8s_CLUSTER]()
+ 
+</tr></table>
 
 
 <br>
