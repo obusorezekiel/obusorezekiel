@@ -138,7 +138,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 -----
 <div>  
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> 
-      <h6>Ezekiel Umesi <a href="https://www.linkedin.com/in/obusor-ezekiel-umesi-a66b55121/">(c) 2023 </a></h6>    
+      <h6>Obusor Ezekiel Umesi <a href="https://www.linkedin.com/in/obusor-ezekiel-umesi-a66b55121/">(c) 2023 </a></h6>    
 </div>
 </div>
 
