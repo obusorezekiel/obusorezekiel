@@ -48,12 +48,12 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 ## <a href="https://github.com/obusorezekiel?tab=repositories" tab="_blank"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="left" alt="Project Profile" width="30px" style="padding-right:10px;" src="https://github.com/gbengafagbola/gbengafagbola/blob/main/hashnode.png?raw=true" title="DEV" alt="DEV" width="25"/></a>    My Portfolio Projects  
  
 
-- [DEPLOYING_APPLICATIONS_INTO_KUBERNETES_CLUSTER](https://gbengafagbola.hashnode.dev/build-deploy-nextjs-fastapi-application-with-aws-amplify)
-- [AWS_CLOUD_SOLUTION_FOR_2_COMPANY_WEBSITES_USING_A_REVERSE_PROXY_TECHNOLOGY](https://gbengafagbola.hashnode.dev/customizing-automating-github-readme)
-- [BUILDING_ELASTIC_KUBERNETES_SERVICE_(EKS)_WITH_TERRAFORM](https://gbengafagbola.hashnode.dev/introduction-to-aws-appsync)
-- [Website_Solution_With_Wordpress](https://gbengafagbola.hashnode.dev/designing-a-cloud-infrastructure)
- - [MIGRATION_TO_THE_СLOUD_WITH_CONTAINERIZATION–DOCKER_&_DOCKER_COMPOSE]()
- - [DEPLOYING AN APPLICATION WITH PERSISTENCE_IN_K8s_CLUSTER]()
+- [DEPLOYING APPLICATIONS INTO KUBERNETES CLUSTER](https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-22.md)
+- [AWS CLOUD SOLUTION FOR 2 COMPANY WEBSITES USING A REVERSE PROXY TECHNOLOGY](https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-15.md)
+- [BUILDING ELASTIC KUBERNETES SERVICE (EKS) WITH TERRAFORM](https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-23.md)
+- [Website Solution With Wordpress](https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-6.md)
+ - [MIGRATION TO THE СLOUD WITH CONTAINERIZATION–DOCKER & DOCKER_COMPOSE](https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-20.md)
+ - [DEPLOYING AN APPLICATION WITH PERSISTENCE IN K8s CLUSTER](https://github.com/obusorezekiel/Darey.io-DevOps-Internship/blob/main/project-23.md)
  
 </tr></table>
 
