@@ -63,7 +63,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 <div>
 
-## Recent Blog Posts
+## Recent Blog Posts.
 
 <table><tr><td>
   
